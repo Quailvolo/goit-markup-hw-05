@@ -115,7 +115,7 @@
 }
 
 .modal-input::placeholder {
-  color: rgba(46, 47, 66, 0.5);
+  color: rgba(46, 47, 66, 0.4);
 }
 
 .modal-input:focus {
